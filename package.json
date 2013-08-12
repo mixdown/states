@@ -1,6 +1,6 @@
 {
   "name": "mixdown-states",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A simple mixdown/broadway plugin for working with US states.",
   "main": "index.js",
   "scripts": {
