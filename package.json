@@ -1,0 +1,28 @@
+{
+  "name": "mixdown-states",
+  "version": "0.0.0",
+  "description": "A simple mixdown/broadway plugin for working with US states.",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape tests/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mixdown/states.git"
+  },
+  "keywords": [
+    "mixdown",
+    "broadway",
+    "plugin",
+    "states"
+  ],
+  "author": "Vast",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mixdown/states/issues"
+  },
+  "devDependencies": {
+    "tape": "~1.0.4",
+    "mixdown-server": "~0.5.4"
+  }
+}
